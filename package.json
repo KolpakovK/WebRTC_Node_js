@@ -1,0 +1,16 @@
+{
+  "name": "rtc-test-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SNAGA dev",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "node-webrtc": "^0.0.0",
+    "socket.io": "^4.8.1"
+  }
+}

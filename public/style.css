@@ -1,0 +1,9 @@
+video {
+    width: 45%;
+    margin: 5px;
+    border: 1px solid black;
+}
+#remoteVideos {
+    display: flex;
+    flex-wrap: wrap;
+}
